@@ -1,2 +1,2 @@
 # Classification_of_Alzheimer-s_disease
-This project has been 
+This project has been published as a book chapter in [Soft Computing Techniques and applications: Proceeding of the International Conference on Computing and Communication, IC3 2020] (https://books.google.co.in/books?id=470LEAAAQBAJ&pg=PA295&lpg=PA295&dq=olimpia+borgohain&source=bl&ots=04adUTrIRv&sig=ACfU3U21ZPn-ChXfFCR9mjhmCgzq2Vr1kQ&hl=en&sa=X&ved=2ahUKEwiTr5GA3Kf4AhVYxDgGHf7ZD5QQ6AF6BAgPEAM#v=onepage&q&f=false).
